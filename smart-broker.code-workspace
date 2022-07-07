@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "backend",
+		},
+		{
+			"path": "mobile",
+		},
+		{
+			"path": "scraper",
+		},
+		{
+			"path": ".",
+			"name": "_root"
+		}
+	],
+	"settings": {}
+}
