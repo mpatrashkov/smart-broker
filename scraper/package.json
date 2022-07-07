@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
-    "cheerio": "1.0.0-rc.12"
+    "axios-socks5-agent": "^1.0.5",
+    "cheerio": "1.0.0-rc.12",
+    "https-proxy-agent": "^5.0.1",
+    "request": "^2.88.2",
+    "socksv5": "^0.0.6"
   }
 }
